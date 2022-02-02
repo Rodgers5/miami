@@ -1,0 +1,10 @@
+.text-primary{
+    color: purple!important;
+}
+header i{
+    color: orangered;
+}
+
+header i:hover{
+    color: rgb(144, 144, 207);
+}
